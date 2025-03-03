@@ -12,7 +12,7 @@ var app=Express();
 app.use(cors());
 
 //Indicate the connection string from mongodb
-var CONNECTION_STRING = "mongodb+srv://perezjohngabriel13:jkVG1yENFOqO4FvW@cluster0.2qgbk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+var CONNECTION_STRING = "mongodb+srv://perezjohngabriel13:gabDatabase123@cluster0.2qgbk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
 
 //Indicate the name of the database
 var DATABASENAME = "MyDb";
